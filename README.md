@@ -8,6 +8,8 @@ The all favortie NPC game based on the NPC meme.
   download the NPC.jar file
   
   run the NPC.jar file
+  
+ ------------------------------------------------------------------------
 
 `you can contact me at 87.7fmradiopushka@gmail.com`
 
